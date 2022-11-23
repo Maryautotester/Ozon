@@ -21,5 +21,5 @@
 Использовалось
 **IntelliJ IDEA, Java, JUnit, Selenium WebDriver, GitHub**
 
-## Скриншоты
-![screenshot](src/test/resources/FinishedTest.png)
+## Скриншот
+![screenshot](src/test/resources/FinishedTest.PNG)
