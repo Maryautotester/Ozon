@@ -22,4 +22,4 @@
 **IntelliJ IDEA, Java, JUnit, Selenium WebDriver, GitHub**
 
 ## Скриншоты
-(src/test/resources/FinishedTest.png)
+![screenshot](src/test/resources/FinishedTest.png)
